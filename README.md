@@ -1,4 +1,4 @@
-# astronaut-health-monitor
+# Astronaut-Health-Monitor
 Anatolian EagleBots
 
 
