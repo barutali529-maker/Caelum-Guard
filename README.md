@@ -26,7 +26,15 @@ The scientific literature, physiological thresholds, and NASA reference datasets
 
 ---
 
+## Domain Research & Documentation
+
+All categorized PDF literature, physiological thresholds, and domain-specific reference documents are hosted in our public archive for instant browser preview:
+
+* **[Access Full Literature & PDF Archive (Google Drive)](https://drive.google.com/drive/folders/1zUspns-9Y-2CKDufpdmDAgwRL7VRaQSD?usp=drive_link)**
+
 ## Data Sources & Literature
+
+---
 
 ### NASA Repositories
 * [NASA Life Sciences Data Archive (LSAH)](https://nlsp.nasa.gov/resources/lsah) — Human spaceflight medical records and physiological archives.
