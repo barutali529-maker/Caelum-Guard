@@ -1,9 +1,5 @@
 # Astronaut-Health-Monitor
-Anatolian EagleBots
-
-
-
-
+**Team:** ANATOLIAN EAGLEBOTS
 
 
 
@@ -11,32 +7,33 @@ Anatolian EagleBots
 
 ## Domain Research & Documentation (`resources/`)
 
-The scientific literature, physiological thresholds, and NASA reference datasets used to model our system's risk parameters are organized by medical domain below:
-
-* [Behavior & Performance](./resources/behavior-and-performance) — Cognitive load, isolation metrics, and behavioral health[cite: 2].
-* [Bone, Muscle & Exercise](./resources/bone-muscle-and-exercise) — Musculoskeletal atrophy and countermeasure protocols[cite: 2].
-* [Cardiovascular](./resources/cardiovascular) — Fluid shift dynamics and cardiovascular deconditioning[cite: 2].
-* [Clinical Care](./resources/clinical-care) — Autonomous medical decision support and deep-space care[cite: 2].
-* [Environmental Health](./resources/environmental-health) — Habitat air/water quality and toxicological limits[cite: 2].
-* [Extravehicular Activity (EVA)](./resources/extravehicular-activity) — Spacesuit physiology and decompression stress[cite: 2].
-* [Immunology](./resources/immunology) — Immune dysregulation and viral reactivation in microgravity[cite: 2].
-* [Neurology](./resources/neurology) — Spaceflight-Associated Neuro-ocular Syndrome (SANS) and CNS risks[cite: 2].
-* [Nutrition](./resources/nutrition) — Metabolic requirements and dietary countermeasures[cite: 2].
-* [Radiation](./resources/radiation) — GCR/SPE exposure thresholds and DNA damage models[cite: 2].
-
----
-
-## Domain Research & Documentation
-
-All categorized PDF literature, physiological thresholds, and domain-specific reference documents are hosted in our public archive for instant browser preview:
+The scientific literature, physiological thresholds, and NASA reference datasets used to model our system's risk parameters are organized by medical domain below. All categorized PDF documents are also hosted in our public archive for instant browser preview:
 
 * **[Access Full Literature & PDF Archive (Google Drive)](https://drive.google.com/drive/folders/1zUspns-9Y-2CKDufpdmDAgwRL7VRaQSD?usp=drive_link)**
 
-## Data Sources & Literature
+### Domain Categories
+* [Behavior & Performance](./resources/behavior-and-performance) — Cognitive load, isolation metrics, and behavioral health.
+* [Bone, Muscle & Exercise](./resources/bone-muscle-and-exercise) — Musculoskeletal atrophy and countermeasure protocols.
+* [Cardiovascular](./resources/cardiovascular) — Fluid shift dynamics and cardiovascular deconditioning.
+* [Clinical Care](./resources/clinical-care) — Autonomous medical decision support and deep-space care.
+* [Environmental Health](./resources/environmental-health) — Habitat air/water quality and toxicological limits.
+* [Extravehicular Activity (EVA)](./resources/extravehicular-activity) — Spacesuit physiology and decompression stress.
+* [Immunology](./resources/immunology) — Immune dysregulation and viral reactivation in microgravity.
+* [Neurology](./resources/neurology) — Spaceflight-Associated Neuro-ocular Syndrome (SANS) and CNS risks.
+* [Nutrition](./resources/nutrition) — Metabolic requirements and dietary countermeasures.
+* [Radiation](./resources/radiation) — GCR/SPE exposure thresholds and DNA damage models.
 
 ---
 
-### NASA Repositories
+## Data Sources & Literature
+
+### NASA Human Research Program (HRP) & Risk Frameworks
+* [NASA HRP: Risks of Human Spaceflight](https://www.nasa.gov/hrp/risks/) — Detailed breakdown of specific physiological, behavioral, and radiation risks in space missions.
+* [NASA STEM: Five Hazards of Human Spaceflight](https://www.nasa.gov/stem-content/five-hazard-of-human-spaceflight/) — Core overview of the five primary spaceflight hazards (radiation, isolation, distance, gravity fields, and closed environments).
+* [NASA NTRS: Human Health and Performance (2023)](https://ntrs.nasa.gov/api/citations/20230015521/downloads/Human%20Health%20and%20Performance.pdf) — Official technical report detailing Moon-to-Mars human system risks and medical countermeasures.
+* [Updates to the NASA Human System Risk Management Process](https://www.researchgate.net/publication/373746512_Updates_to_the_NASA_human_system_risk_management_process_for_space_exploration) — Research paper on NASA's risk management architecture derived from the five spaceflight hazards.
+
+### NASA Data Repositories
 * [NASA Life Sciences Data Archive (LSAH)](https://nlsp.nasa.gov/resources/lsah) — Human spaceflight medical records and physiological archives.
 * [NASA OSDR: SpaceX Inspiration4](https://osdr.nasa.gov/bio/repo/data/missions/SpaceX%20Inspiration4) — Omics and clinical datasets from commercial spaceflight.
 * [NASA OSDR Study Search](https://osdr.nasa.gov/bio/repo/search?q=&data_source=cgene,alsda,esa&data_type=study) — Cross-platform space biology and genomic datasets.
