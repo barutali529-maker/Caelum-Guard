@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="resources/assets/NASA-Inspired Astronaut Control Room"
+  <img src="resources/assets/NASA-Inspired Astronaut Control Room.png"
        alt="Astronaut Health Monitor"
        width="100%">
 </p>
