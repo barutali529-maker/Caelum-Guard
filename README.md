@@ -1,6 +1,6 @@
 <p align="center">
   <img src="assets/cealumguard-banner.png"
-       alt="nSAIL Astronaut Health Monitor"
+       alt="Astronaut Health Monitor"
        width="100%">
 </p>
 
