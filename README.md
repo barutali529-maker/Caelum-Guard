@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cealumguard-banner.png"
+  <img src="resources/assets/cealumguard-banner.png"
        alt="Astronaut Health Monitor"
        width="100%">
 </p>
