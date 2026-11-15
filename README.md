@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/cealumguard-banner.png"
+       alt="nSAIL Astronaut Health Monitor"
+       width="100%">
+</p>
+
 # Astronaut-Health-Monitor
 **Team:** ANATOLIAN EAGLEBOTS
 
